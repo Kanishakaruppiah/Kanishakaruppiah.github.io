@@ -6,6 +6,12 @@
 
 ---
 
+## About Me
+I am a BBA LL.B (Hons.) student at SASTRA University passionate about corporate law, and ADR.  
+This website highlights my education, experience and achievements.
+
+---
+
 ## Education
 - **BBA LL.B (Hons.)**, SASTRA University, Thanjavur (2022–2027)  
   Current Semester: VI — CGPA: 8.54  
@@ -35,9 +41,8 @@
 - Volunteering: Core Member (Sastra Legal Aid Committee, 2024–25).
 
 ## Key Skills & Competencies
-- Corporate Compliance: Board resolutions, ROC filings (MGT-7, AOC-4), AGM notices.  
 - Legal Drafting & Research: Civil, SARFAESI, MCOP, property law, mediation.  
-- Governance & ADR: Mediation insights training.  
+- Governance & ADR: Attended Mediation insights training.  
 - Soft Skills: Leadership, event management, multilingual communication.
 
 ---
